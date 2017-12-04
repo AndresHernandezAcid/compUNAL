@@ -1,0 +1,62 @@
+h1, h3{
+    color:  white;
+}
+
+.masthead{
+    background-image: url("../img/test.jpg");
+}
+
+#callout1{
+    background-image: url("../img/desarrollo.jpg");
+    color: white;
+}
+
+#callout2{
+    background-image: url("../img/test2.jpg");
+    color: white;
+}
+
+#callout3{
+    background-image: url("../img/software.jpg");
+    color: white;
+    filter: hue-rotate(45deg);
+}
+
+#callout4{
+    background-image: url("../img/moviles.jpg");
+    color: white;
+
+
+.lead{
+    font-size: 1.5em;
+}
+
+}
+#caption1, #caption2, #caption3{
+    filter: grayscale(100%);
+}
+
+#contactanos{
+    text-align: center;
+    vertical-align: middle;
+    padding: 1em;
+    font-size: 2em;
+}
+
+.agrandar{
+    font-size: 2em;
+}
+
+p em{
+    font-weight: 800;
+}
+
+#trabajo{
+    font-size: 1em;
+}
+
+.text-secondary{
+    color: #d5d5d5!important;
+}
+
+
