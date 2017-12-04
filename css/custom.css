@@ -36,12 +36,6 @@ h1, h3{
     filter: grayscale(100%);
 }
 
-#contactanos{
-    text-align: center;
-    vertical-align: middle;
-    padding: 1em;
-    font-size: 2em;
-}
 
 .agrandar{
     font-size: 2em;
@@ -53,6 +47,13 @@ p em{
 
 #trabajo{
     font-size: 1em;
+}
+
+#contactanos{
+    text-align: center;
+    vertical-align: middle;
+    padding: 1em;
+    font-size: 2em;
 }
 
 .text-secondary{
